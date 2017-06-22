@@ -1,0 +1,13 @@
+testing class:
+Input is a playthrough of a board
+both players are AI, doesn't really matter
+Test heuristics on board to make sure they match values I want
+Regular class:
+Press a special key at any point during a game and the playthrough of that game is saved
+
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 1 0 0 2 0
+1 2 2 1 0 2 1
+1 2 1 1 2 2 1
+2 1 1 2 1 1 2
